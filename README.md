@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sujit singh" target="blank"><img src="https://img.shields.io/twitter/follow/sujit singh?logo=twitter&style=for-the-badge" alt="sujit singh" /></a> </p>
 
-- 🔭 I’m currently working on **track back**
+
 
 - 🌱 I’m currently learning **data analysis using python**
 
