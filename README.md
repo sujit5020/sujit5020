@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **data analysis using python**
 
-- 💬 Ask me about **MERN,Data Analysis**
+- 💬 Ask me about **WEB DEVELOPMENT,Data Analysis**
 
 - 📫 How to reach me **sujitsingh953474@gmail.com**
 
